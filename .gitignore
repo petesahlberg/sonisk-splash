@@ -1,0 +1,9 @@
+$ git status
+
+#################
+## Directories
+#################
+
+node_modules/
+
+*.scss
